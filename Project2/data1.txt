@@ -1,0 +1,7 @@
+CCC,    Civilian Conservation Corps
+FCC, Federal Communications Commission
+FDIC, Federal Deposit Insurance Corporation
+SSA,   Social Security Administration
+WPA, Works Progress Administration
+SEC, Securities and Exchange Commission
+SSS,   Selective Service System
